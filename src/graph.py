@@ -24,4 +24,4 @@ fig.show()
 #plt.ylabel('num casos')
 #plt.show()
 
-pio.write_html(fig, file='primera_prueba.html', auto_open=True)
+pio.write_html(fig, file='../index.html', auto_open=True)
